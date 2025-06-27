@@ -1,0 +1,63 @@
+1.HTML ?
+ hypertext markup language
+
+2.CSS?
+ Cascading styles sheet
+
+
+3. Dev tools:
+ >Element: Chứa thẻ HTML
+ >Console: Sử dụng khi làm việc với javascript
+ >Sources: 
+ >Network:
+
+------------------------------------------------------------------------------------
+ 4. HTML:
+--->    <meta charset="UTF-8"> : Khai báo để trình duyệt có thể hiểu được tiếng Việt
+--->    Cách viết comment ctrl + / (window)
+
+---> Thẻ HTML thường sử dụng
+1. h
+2. p
+3. a
+4. ul, li
+5. table
+6. Input
+7. Button
+8. Div
+9. img 
+
+---> Css trong HTML
+    1. Internal : trong head của HTML <style> Internal CSS </style>
+    2. External : Css được viết ở 1 file khác và được link vào HTML
+    3. Inline : ghi trược tiếp vào thẻ 
+
+---> ID và Class
+    id: duy nhất
+    class: có thể sử dụng 1 class cho nhiều phần tử
+
+---> Mức độ ưu tiên CSS
+    1. Internal và External: cái nào được gọi sau sẽ dc ưu tiên
+    2. Inline : Mức độ ưu tiên là cao nhất
+    3.  tag < class < #id  < Inline < !important
+
+---> CSS units
+1. Absolutre units
+    px
+    pt
+    cm
+    mm
+    inch
+    pc
+
+2. Relative units
+    %
+    rem
+    Em
+    vw
+    vh
+    vmin
+
+---> padding, border: làm tăng kích thước thức tế của box
+
+--->box-sizing: đặt kích thước của box được đo tư đâu đến đâu
